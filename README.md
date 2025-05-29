@@ -1,16 +1,15 @@
-## Hi there 👋
+👋 Hey there! I’m Shubham Sinha
 
-<!--
-**devtorque/devtorque** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Full Stack Web2 & Web3 Developer | Crafting seamless UI/UX
 
-Here are some ideas to get you started:
+🛠 Skilled in Smart Contracts Integration, bringing blockchain protocols to the frontend
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💡 Passionate about Web Development – from sleek UIs to performant apps
+
+⚡ Tech Stack: HTML, CSS, Bootstrap, JavaScript, TypeScript, React, Remix, Next.js, Tailwind, Node, Express, SEO, Wagmi, Ethers.js
+
+🌱 Exploring the MERN Stack, but my heart lies in the frontend! 😄
+
+🔗 Building the bridge between Web2 & Web3 one block at a time!
+
+📫 Reach me - Linkedin - https://www.linkedin.com/in/shubham-sinha-/ 
